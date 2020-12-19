@@ -12,12 +12,6 @@ desenvolver ações que fortaleçam o intercâmbio técnico-científico com inst
 ***
 D
 ****
-Enquanto durar a suspensão do PAT, a autoridade competente não poderá praticar qualquer ato no processo, ressalvado aquele de natureza urgente, a fim de evitar dano irreparável. 
-****
-A assinatura do auto de infração pelo sujeito passivo, mandatário, responsável ou preposto implica confissão irretratável da dívida.
-***
-E
-****
 (Inédita) Acerca da estrutura e das competências dos órgãos que compõem o CONAT, analise as assertivas seguintes e assinale a incorreta:
 ***
 O recurso extraordinário será apreciado e julgado pela Câmara Superior.
@@ -74,7 +68,7 @@ A intimação considera-se efetuada por via postal, quando houver recusa do inti
 ***
 B
 ****
-O CONAT tem sede em fortaleza e duplo grau de jurisdição administrativa em relação à materoa de sua competência em todo o território do Estado de Ceará.
+O CONAT tem sede em fortaleza e duplo grau de jurisdição administrativa em relação à materia de sua competência em todo o território do Estado de Ceará.
 ***
 C
 ****
@@ -106,7 +100,7 @@ Compete aos Vice-Presidentes  participar das sessões deliberativas do CRT
 ***
 C
 ****
- Os Conselheiros Presidentes das CJs participarão das sessões do CRT sem direito a voto
+Os Conselheiros Presidentes das CJs participarão das sessões do CRT sem direito a voto
 ***
 C
 ****
@@ -149,3 +143,9 @@ A
 Enquanto durar a suspensão, a autoridade competente não poderá praticar qualquer ato no processo, ressalvado aquele de natureza urgente, a fim de evitar dano irreparável. 
 ***
 C
+****
+Enquanto durar a suspensão do PAT, a autoridade competente não poderá praticar qualquer ato no processo, ressalvado aquele de natureza urgente, a fim de evitar dano irreparável. 
+****
+A assinatura do auto de infração pelo sujeito passivo, mandatário, responsável ou preposto implica confissão irretratável da dívida.
+***
+E
