@@ -145,6 +145,8 @@ Enquanto durar a suspensão, a autoridade competente não poderá praticar qualq
 C
 ****
 Enquanto durar a suspensão do PAT, a autoridade competente não poderá praticar qualquer ato no processo, ressalvado aquele de natureza urgente, a fim de evitar dano irreparável. 
+***
+C
 ****
 A assinatura do auto de infração pelo sujeito passivo, mandatário, responsável ou preposto implica confissão irretratável da dívida.
 ***
